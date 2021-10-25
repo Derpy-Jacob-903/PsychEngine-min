@@ -625,7 +625,7 @@ class PlayState extends MusicBeatState
 			//		bg.antialiasing = false;
 			//		add(bg);
 			//	}
-		}
+		};
 
 		if(isPixelStage) {
 			introSoundsSuffix = '-pixel';
